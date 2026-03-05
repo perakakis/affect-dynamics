@@ -4,9 +4,9 @@ Links to standalone repositories from my affect dynamics research program.
 
 ---
 
-## [Bistability and Affect Shifts](https://github.com/perakakis/AffectShifts)
+## [Bistability and Affect Shifts (Emotion, 2025)](https://github.com/perakakis/AffectShifts)
 
-Code and data for the article *"Bistability and Affect Shift Dynamics in the Prediction of Psychological Well-Being"* published in *Emotion* (2024). Examines how emotional state transitions and mood stability relate to psychological well-being outcomes.
+Code and data for the article *"Bistability and Affect Shift Dynamics in the Prediction of Psychological Well-Being"* published in *Emotion* (2025). Examines how emotional state transitions and mood stability relate to psychological well-being outcomes.
 
 ---
 
