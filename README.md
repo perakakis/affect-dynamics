@@ -4,13 +4,13 @@ Links to standalone repositories from my affect dynamics research program.
 
 ---
 
-## [AffectShifts](https://github.com/perakakis/AffectShifts)
+## [Bistability and Affect Shifts](https://github.com/perakakis/AffectShifts)
 
 Code and data for the article *"Bistability and Affect Shift Dynamics in the Prediction of Psychological Well-Being"* published in *Emotion* (2024). Examines how emotional state transitions and mood stability relate to psychological well-being outcomes.
 
 ---
 
-## [valence-article](https://github.com/perakakis/valence-article)
+## [Valence Enables Improved Predictors of Psychological Well-Being](https://github.com/perakakis/valence-article)
 
 Code and data supporting a study on direct bipolar valence measurement across three ecological momentary assessment (EMA) datasets (~30,000 observations, 345 participants). Shows that the positive-to-negative affect shift ratio (P2N) outperforms traditional intensity-based affect metrics in predicting well-being.
 
@@ -22,6 +22,6 @@ A citizen science project tracking psychological responses to the COVID-19 pande
 
 ---
 
-## [spanish-pbat](https://github.com/perakakis/spanish-pbat)
+## [Spanish PBAT Validation and Cross-Cultural Network Analysis](https://github.com/perakakis/spanish-pbat)
 
 Spanish validation and cross-cultural network analysis of the PBAT (Psychological Balance Assessment Tool). R-based statistical network analysis examining the instrument's structure across Spanish-speaking samples.
